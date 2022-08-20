@@ -3,7 +3,9 @@
 using namespace std;
 
 int main() {
-    cout << "Hello World!";
+    string HloWrld = "Hello World!";
+
+    cout << HloWrld;
 
     return 0;
 }
